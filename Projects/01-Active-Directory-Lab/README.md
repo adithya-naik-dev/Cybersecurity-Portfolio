@@ -1,1 +1,1 @@
-
+Built a Windows Active Directory lab using VMware to simulate a small corporate network. The environment includes a Domain Controller, Windows 10 workstation, Ubuntu SIEM server, and Kali Linux attacker. This lab serves as the foundation for future detection engineering and SOC investigations.
